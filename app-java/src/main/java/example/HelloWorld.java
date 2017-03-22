@@ -7,7 +7,7 @@ public class HelloWorld {
 final static Logger logger = Logger.getLogger(HelloWorld.class);
 	
   public void coveredByUnitTest() {
-    logger.info("coveredByUnitTest1");
+    logger.info("coveredByUnitTest1 tjiosndskndslksdfklajklj");
     logger.info("coveredByUnitTest2");
   }
 
