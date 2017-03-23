@@ -4,7 +4,7 @@ import org.apache.log4j.Logger;
 
 public class HelloWorld {
 
-final static Logger logger = Logger.getLogger(HelloWorld.class);
+public final static Logger logger = Logger.getLogger(HelloWorld.class);
 	
   public void coveredByUnitTest() {
     logger.info("coveredByUnitTest1 tjiosndskndslksdfklajklj");
